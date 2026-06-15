@@ -65,4 +65,4 @@ I lead research on **reinforcement learning for energy and networked systems**: 
 
 [![Hyeonjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=thatsmygirl&show_icons=true&hide_border=true&count_private=true&hide_title=true)](https://github.com/thatsmygirl)
 
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmygirl&layout=compact&hide_border=true)](https://github.com/thatsmygirl)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thatsmygirl&layout=compact&hide_border=true&langs_count=8)](https://github.com/thatsmygirl)
