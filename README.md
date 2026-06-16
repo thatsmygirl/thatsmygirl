@@ -14,14 +14,10 @@ I lead research on **reinforcement learning for energy and networked systems**: 
 
 ### Research Interests
 
-- Deep reinforcement learning (SAC, TD3, PPO, DDPG) for sequential decision-making
-- Microgrid energy management & battery storage (nonlinear losses, cyclic degradation)
-- RL for networked systems: traffic control, satellite resource allocation, federated learning
-- Brain–computer interfaces: EEG-based emotion classification (undergraduate research)
+- Deep reinforcement learning for sequential decision-making
+- Microgrid energy management
 
 ### Research Experience
-
-*I led the work below end-to-end — problem formulation, modeling, experiments, and writing — except where noted.*
 
 - **Microgrid Energy Management with Deep RL** — AA Lab, Dongseo University · *manuscript under review*
   A soft actor-critic (SAC) EMS for a PV–microturbine–battery microgrid modeled with nonlinear charging/discharging losses and cyclic degradation; benchmarked against TD3, PPO, DDPG, and a MILP optimum under both ToU and RTP tariffs. → [`microgrid-drl-ems`](https://github.com/thatsmygirl/microgrid-drl-ems)
@@ -50,8 +46,8 @@ I lead research on **reinforcement learning for energy and networked systems**: 
 ### Skills
 
 - **Languages:** Python, MATLAB
-- **Deep RL:** PyTorch · SAC, TD3, PPO, DDPG · reward design, multi-seed evaluation
-- **Optimization:** MILP (day-ahead scheduling baselines)
+- **Deep RL:** PyTorch · SAC, TD3, PPO, DDPG
+- **Optimization:** MILP
 - **Domains:** energy systems, microgrid EMS, battery modeling, networked systems
 
 ### Contact
